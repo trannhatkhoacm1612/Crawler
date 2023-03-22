@@ -1,6 +1,6 @@
 # Crawler
 
-Using module <span style = "color:green ">*request*</span> and <span style = "color:green ">*bs4*</span>to crawler a number of image from **google image** when input a search string.
+Using module <span style = "color:green ">*request*</span> and <span style = "color:green ">*bs4*</span> to crawler a number of image from **google image** when input a search string.
 
 ## Idea
 

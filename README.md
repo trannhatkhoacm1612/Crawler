@@ -1,6 +1,12 @@
-# Crawler
+# <span style = "color:blue">Crawler</span>
 
-# Using module *request* and *bs4* to crawler a number of img from **google image** when input a search string.
+Using module *request* and *bs4* to crawler a number of img from **google image** when input a search string.
+
+## Idea
+
+When we search somethings in the google image, the result is represented as a **HTML** file. Our duty is select the # <span style = "color:greeb">img tag</span> from this file, and download the # <span style = "color:blue">"src</span> atribute.
+
+
 
 # Usage
 
